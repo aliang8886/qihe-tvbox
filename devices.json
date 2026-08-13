@@ -1,0 +1,10 @@
+{
+  "devices": [
+    {
+      "id": "child-tv",
+      "name": "儿童电视",
+      "enabled": true,
+      "expiresAt": "2026-09-12T07:08:59.863Z"
+    }
+  ]
+}
